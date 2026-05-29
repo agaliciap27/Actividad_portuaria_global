@@ -9,6 +9,12 @@ como parte de un proyecto de portafolio en análisis de datos.
 
 ---
 
+## 📸 Dashboard
+
+![Página 1 - Actividad Portuaria](1..png)
+![Página 2 - Eficiencia Portuaria](2.png)
+![Página 3 - Dispersión](3.png)
+
 ## 🛠️ Herramientas
 
 - PostgreSQL 18
